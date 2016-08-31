@@ -1,0 +1,13 @@
+Package: com.onlyemu.tenuis
+Version: 1.0
+Section: Themes
+Maintainer: onlyemu <emmanuel.tesauro@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: ./debs/com.emuudev.tenuiss_1.0_iphoneos-arm.deb
+Size: 483664
+MD5sum: e9118c69833495de84c5327480f00b1a
+Name: Tenuis
+Author: onlyemu <emmanuel.tesauro@gmail.com>
+Depiction: http://onlyemu.github.io/depic/com.onlyemu.tenuis.html
+
