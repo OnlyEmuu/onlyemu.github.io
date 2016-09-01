@@ -1,9 +1,0 @@
-Origin: onlyemu repo
-Label: onlyemu
-Suite: stable
-Version: 1.0
-Codename: onlyemu repo
-Architectures: iphoneos-arm
-Components: main
-Description: Test
-
